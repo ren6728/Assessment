@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a53a1d-5685-45f1-a977-c0c5d9746c0d" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/B1903RestAssured/src/main/java/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/B1903RestAssured/src/main/java/utils/URL.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/BDDCucumber_B1903/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/BDDCucumber_B1903/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/BDDCucumber_B1903/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/BDDCucumber_B1903/BDDCucumber_B1903.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/BDDCucumber_B1903/pom.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Batch1903JavaBasic/src/basic/Demo.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Batch1903JavaBasic/src/basic/IPhoneX.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Batch1903JavaBasic/src/basic/IPhoneXI.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Batch1903JavaBasic/src/basic/Phone.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/data/planet-data.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/logs/log.log" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/logs/log4j.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber-pretty/formatter.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber-pretty/index.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber-pretty/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber-pretty/report.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber-pretty/style.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/cucumber.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/reporting/junit_xml/cucumber.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/RestAssuredCore/BaseAssertion.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/RestAssuredCore/BaseTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/RestAssuredCore/RESTCalls.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/base/ApplicationPageBase.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/features/individual-people.feature" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/features/individual-plante.feature" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/features/people.feature" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/features/plantes.feature" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/parallel/Runner.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/stepDefinition/IndividualPeople.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/stepDefinition/IndividualPlanetsSteps.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/stepDefinition/PeopleSteps.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/stepDefinition/PlanetsSteps.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/utils/PayloadGenerator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/airmail/src/test/java/utils/URL.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/aws_samples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/unittestdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/unittestdemo/src/test/resources/TestRunnerFile.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/APITestingBYRestassured/resources/JiraLogin.json" beforeDir="false" afterPath="$USER_HOME$/APITestingBYRestassured/resources/JiraLogin.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/APITestingBYRestassured/src/main/java/RestAssuredCore/BaseTest.java" beforeDir="false" afterPath="$USER_HOME$/APITestingBYRestassured/src/main/java/RestAssuredCore/BaseTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/APITestingBYRestassured/src/main/java/utils/PayloadGenerator.java" beforeDir="false" afterPath="$USER_HOME$/APITestingBYRestassured/src/main/java/utils/PayloadGenerator.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/APITestingBYRestassured/src/main/java/utils/URL.java" beforeDir="false" afterPath="$USER_HOME$/APITestingBYRestassured/src/main/java/utils/URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automationpractice/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/automationpractice/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automationpractice/src/test/java/page_objects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/automationpractice/src/test/java/page_objects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/.idea/vcs.xml" beforeDir="false" afterPath="$USER_HOME$/CucumberBDDB1901/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/CucumberBDDB1901/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/formatter.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/index.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/report.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber-pretty/style.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/cucumber.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/reporting/junit_xml/cucumber.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/base/ApplicationPageBase.java" beforeDir="false" afterPath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/base/ApplicationPageBase.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/objects/HomePage.java" beforeDir="false" afterPath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/objects/HomePage.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/runner/RunnerTest.java" beforeDir="false" afterPath="$USER_HOME$/CucumberBDDB1901/automationpractice/src/test/java/runner/RunnerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDD_B1902/automation-practic/driver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDD_B1902/automation-practic/driver/chromedriver" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDD_B1902/automation-practic/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDD_B1902/automation-practic/driver/geckodriver" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CucumberBDD_B1902/automation-practic/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$USER_HOME$/HTML_Basic/.idea/vcs.xml" beforeDir="false" afterPath="$USER_HOME$/HTML_Basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/HTML_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/HTML_Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/HTML_Basic/src/main/java/WebApp/Basic.html" beforeDir="false" afterPath="$USER_HOME$/HTML_Basic/src/main/java/WebApp/Basic.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/ArtihmaticOperators.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/ClassVariableDemo.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/ComparisonDemo.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/ConditionalOperator.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/Phone.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/UniaryOperator.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/VariableTypesHomeWork.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/JavaBasicBatch1901/src/VariablesDemo.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Tracer/tracer_app/CountOddAndEven.py" beforeDir="false" afterPath="$USER_HOME$/Tracer/tracer_app/CountOddAndEven.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Tracer/tracer_test/qa_coding_test_answer_sheet.py" beforeDir="false" afterPath="$USER_HOME$/Tracer/tracer_test/qa_coding_test_answer_sheet.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/VersionCompatibility/src/main/java/connectdb/ConnectMySQL.java" beforeDir="false" afterPath="$USER_HOME$/VersionCompatibility/src/main/java/connectdb/ConnectMySQL.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/candymapper/generic/src/main/java/base/BrowserDriver.java" beforeDir="false" afterPath="$USER_HOME$/candymapper/generic/src/main/java/base/BrowserDriver.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/candymapper/generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$USER_HOME$/candymapper/generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/candymapper/webcandymapper/src/test/resources/CandymapperTestRunnerFile.xml" beforeDir="false" afterPath="$USER_HOME$/candymapper/webcandymapper/src/test/resources/CandymapperTestRunnerFile.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/General Instructions.txt" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/General Instructions.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/accounts/SalaryCalulator.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/accounts/SalaryCalulator.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/api/DeepDiveArrayList.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/api/DeepDiveArrayList.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/api/MapAPI.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/api/MapAPI.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/Nokia1100.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/Nokia1100.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/PreNokia1100.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/PreNokia1100.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/SymbianPhone.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/inheritance/SymbianPhone.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/java/io/BufferReaderDemo.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/java/io/BufferReaderDemo.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/java/io/ReadTestDataXLSXFile.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/java/io/ReadTestDataXLSXFile.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/main/java/utility/XLSXFileReader.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/main/java/utility/XLSXFileReader.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/test/java/Unit-Testing-Instructions.txt" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/test/java/Unit-Testing-Instructions.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/test/java/accountstest/SalaryCalculatorTest.java" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/test/java/accountstest/SalaryCalculatorTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/midtermbatch1901/src/test/java/dbtest/instructions.txt" beforeDir="false" afterPath="$USER_HOME$/midtermbatch1901/src/test/java/dbtest/instructions.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/simplewebapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/simplewebapp/src/main/java/com/sample/Services.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/create-stack-using-shell-script/MyTemplate1.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/01 Introduction to CloudFormation/SimpleExample.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/01 Introduction to CloudFormation/SimpleExampleNoTags.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/0-MyTemple.yml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/0-SimpleExample.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/1-IntrinsicFunctions.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/2-MultipleResources.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/3-PseudoParameters.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/4-Mappings.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/5-InputParameters.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/02 CloudFormation Features/6-Output.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/03 Setting up an EC2 Instance/1-CFNInit.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/1-ChangeSet-SGIngressRule.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/2-ChangeSet-SGDescription.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/3-ChangeSet-AddVPC.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/4-ChangeSet-SGDescription.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/04 ChangeSets/5-FullStack-ChangeSet.yaml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/LICENSE" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/MyTemplate1" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ymal/yaml/src/intro-to-CloudFormation_AC/README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/generic/target/" />
+    <ignored path="$PROJECT_DIR$/automationpractice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2064987100">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="368" />
+          <entry key="xml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="368" />
+          <entry key="XML" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="html" value="2" />
+          <entry key="java" value="27" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="27" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="668570870">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dtd" value="1" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="DTD" value="1" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1350206671">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="119" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="119" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/automationpractice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ExcelWBook</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/ExperimentalProjects/UITestUsingAWSLamda/lambda-selenium/lambda-selenium-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/MobileAutomationTesting/functional-tests-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/lambda-selenium/lambda-selenium-java" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/SampleBrowserDriver.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/java/page_objects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/java/application_page_base/ApplicationPageBase.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/reader/MyDataReader.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/java/page_objects/HomePage.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/JavaSample.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/pom.xml" />
+        <option value="$PROJECT_DIR$/automationpractice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assessment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assessment" type="462c0819:PsiDirectoryNode" />
+              <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assessment" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618277072310" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/automationpractice" />
+      <recent name="$PROJECT_DIR$/generic/drivers/mac" />
+      <recent name="$PROJECT_DIR$/generic/drivers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="application_page_base" />
+      <recent name="reader" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generic/drivers/mac" />
+      <recent name="$PROJECT_DIR$/automationpractice/src" />
+      <recent name="$PROJECT_DIR$/automationpractice/src/test" />
+      <recent name="$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test" />
+      <recent name="$PROJECT_DIR$/automationpractice/src/test/java/page_objects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/renxing/Assessment/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml">
+    <configuration name="JavaSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.JavaSample" />
+      <module name="automationpractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Assessment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Assessment" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/renxing/Assessment/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" type="TestNG" factoryName="TestNG" temporary="true">
+      <module name="automationpractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaSample" />
+      <item itemvalue="TestNG./Users/renxing/Assessment/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/renxing/Assessment/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
+        <item itemvalue="Application.JavaSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a53a1d-5685-45f1-a977-c0c5d9746c0d" name="Default Changelist" comment="" />
+      <created>1588517536453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588517536453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.05.09 at 12h 20m 00s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.05.09 at 12h 32m 24s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.05.10 at 11h 14m 47s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.05.10 at 11h 16m 18s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 19h 08m 51s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 20h 57m 09s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 20h 57m 32s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 20h 59m 19s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 21h 00m 23s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_WebAutomationB2001_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2021.04.12 at 21h 09m 47s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/WebAutomationB2001/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="834" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1981402" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27816412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2919786" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2823366" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32823366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects/HomePage.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/SampleBrowserDriver.java" />
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/DemoDriver.java" />
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/JavaSampleBrowserstack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar!/org/openqa/selenium/chrome/ChromeOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/annotations/Parameters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/annotations/DataProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reader/MyDataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/target/surefire-reports/testng-results.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/JavaSample.java" />
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3186">
+          <caret line="148" column="44" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/application_page_base/ApplicationPageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-plugin.jar!/resources/standardSchemas/testng-1.0.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="90" column="10" selection-start-line="90" selection-end-line="90" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automationpractice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>generic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
